@@ -28,4 +28,4 @@ Designed to help users track their periods, predict fertile windows, and manage 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/period-tracking-app.git
+   git clone https://github.com/Phindile20/period-tracking-app.git
